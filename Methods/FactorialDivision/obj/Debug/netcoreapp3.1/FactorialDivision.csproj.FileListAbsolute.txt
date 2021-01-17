@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Methods\FactorialDivision\bin\Debug\netcoreapp3.1\FactorialDivision.exe
+C:\Users\user\source\repos\Methods\FactorialDivision\bin\Debug\netcoreapp3.1\FactorialDivision.deps.json
+C:\Users\user\source\repos\Methods\FactorialDivision\bin\Debug\netcoreapp3.1\FactorialDivision.runtimeconfig.json
+C:\Users\user\source\repos\Methods\FactorialDivision\bin\Debug\netcoreapp3.1\FactorialDivision.runtimeconfig.dev.json
+C:\Users\user\source\repos\Methods\FactorialDivision\bin\Debug\netcoreapp3.1\FactorialDivision.dll
+C:\Users\user\source\repos\Methods\FactorialDivision\bin\Debug\netcoreapp3.1\FactorialDivision.pdb
+C:\Users\user\source\repos\Methods\FactorialDivision\obj\Debug\netcoreapp3.1\FactorialDivision.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Methods\FactorialDivision\obj\Debug\netcoreapp3.1\FactorialDivision.AssemblyInfo.cs
+C:\Users\user\source\repos\Methods\FactorialDivision\obj\Debug\netcoreapp3.1\FactorialDivision.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Methods\FactorialDivision\obj\Debug\netcoreapp3.1\FactorialDivision.dll
+C:\Users\user\source\repos\Methods\FactorialDivision\obj\Debug\netcoreapp3.1\FactorialDivision.pdb
+C:\Users\user\source\repos\Methods\FactorialDivision\obj\Debug\netcoreapp3.1\FactorialDivision.genruntimeconfig.cache
+C:\Users\user\source\repos\Methods\FactorialDivision\obj\Debug\netcoreapp3.1\FactorialDivision.csprojAssemblyReference.cache
