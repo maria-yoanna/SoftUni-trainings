@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Arrays\ZigZag\obj\Debug\netcoreapp3.1\ZigZag.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Arrays\ZigZag\obj\Debug\netcoreapp3.1\ZigZag.AssemblyInfo.cs
+C:\Users\user\source\repos\Arrays\ZigZag\obj\Debug\netcoreapp3.1\ZigZag.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Arrays\ZigZag\bin\Debug\netcoreapp3.1\ZigZag.exe
+C:\Users\user\source\repos\Arrays\ZigZag\bin\Debug\netcoreapp3.1\ZigZag.deps.json
+C:\Users\user\source\repos\Arrays\ZigZag\bin\Debug\netcoreapp3.1\ZigZag.runtimeconfig.json
+C:\Users\user\source\repos\Arrays\ZigZag\bin\Debug\netcoreapp3.1\ZigZag.runtimeconfig.dev.json
+C:\Users\user\source\repos\Arrays\ZigZag\bin\Debug\netcoreapp3.1\ZigZag.dll
+C:\Users\user\source\repos\Arrays\ZigZag\bin\Debug\netcoreapp3.1\ZigZag.pdb
+C:\Users\user\source\repos\Arrays\ZigZag\obj\Debug\netcoreapp3.1\ZigZag.dll
+C:\Users\user\source\repos\Arrays\ZigZag\obj\Debug\netcoreapp3.1\ZigZag.pdb
+C:\Users\user\source\repos\Arrays\ZigZag\obj\Debug\netcoreapp3.1\ZigZag.genruntimeconfig.cache
+C:\Users\user\source\repos\Arrays\ZigZag\obj\Debug\netcoreapp3.1\ZigZag.csprojAssemblyReference.cache

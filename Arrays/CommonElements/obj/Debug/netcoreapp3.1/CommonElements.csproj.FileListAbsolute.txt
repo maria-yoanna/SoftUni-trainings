@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Arrays\CommonElements\bin\Debug\netcoreapp3.1\CommonElements.exe
+C:\Users\user\source\repos\Arrays\CommonElements\bin\Debug\netcoreapp3.1\CommonElements.deps.json
+C:\Users\user\source\repos\Arrays\CommonElements\bin\Debug\netcoreapp3.1\CommonElements.runtimeconfig.json
+C:\Users\user\source\repos\Arrays\CommonElements\bin\Debug\netcoreapp3.1\CommonElements.runtimeconfig.dev.json
+C:\Users\user\source\repos\Arrays\CommonElements\bin\Debug\netcoreapp3.1\CommonElements.dll
+C:\Users\user\source\repos\Arrays\CommonElements\bin\Debug\netcoreapp3.1\CommonElements.pdb
+C:\Users\user\source\repos\Arrays\CommonElements\obj\Debug\netcoreapp3.1\CommonElements.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Arrays\CommonElements\obj\Debug\netcoreapp3.1\CommonElements.AssemblyInfo.cs
+C:\Users\user\source\repos\Arrays\CommonElements\obj\Debug\netcoreapp3.1\CommonElements.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Arrays\CommonElements\obj\Debug\netcoreapp3.1\CommonElements.dll
+C:\Users\user\source\repos\Arrays\CommonElements\obj\Debug\netcoreapp3.1\CommonElements.pdb
+C:\Users\user\source\repos\Arrays\CommonElements\obj\Debug\netcoreapp3.1\CommonElements.genruntimeconfig.cache
